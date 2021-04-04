@@ -130,8 +130,8 @@ Additionally, [this]( "submission") is a link to my entire submission, and [this
 In case you haven't had enough of my fantastic solution to the programming assignment, check out [this collage] (/fantastic.jpg "Nada's collage") I made with the filters I created.
 
 __Home:__
-I'm from Egypt, and I really enjoy exploring my hometown and different places in Egypt, so ![here](egy.png "the shots") are some shots I have taken!
-
+I'm from Egypt, and I really enjoy exploring my hometown and different places in Egypt, so here are some shots I have taken!
+![egy](egy.png "the shots")
 
 
 
