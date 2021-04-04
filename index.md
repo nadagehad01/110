@@ -13,7 +13,7 @@ Hello! My name is Nada (she/her). I'm a class of 2023 student at UCSD majoring i
 
 
 #### About my tutoring
-I have a great passion for teaching. I was an elementary school tutor when I was in high school, I mentored students in underserved areas in Egypt and helped design their curriculums, and I became a computer science tutor for the first time in January of 2021. I tutored for CSE 8B (Introduction to Programming 2: Java) with _Professor Christine Alvarado_, and I'm currently tutoring for CSE 30 (Computer Systems and Organization) with _Professor Bryan Chin_. In March of 2021, I joined an organization called CovEd as a volunteer mentor to mentor for students in Chicago Heights Middle School.
+I have a great passion for teaching. I was an elementary school tutor when I was in high school, I mentored students in underserved areas in Egypt and helped design their curriculums, and I became a computer science tutor for the first time in January of 2021. I tutored for CSE 8B (_Introduction to Programming and Computational Problem-Solving II_) with Professor Christine Alvarado, and I'm currently tutoring for CSE 30 (_Computer Organization and Systems Programming_) with Professor Bryan Chin. In March of 2021, I joined an organization called CovEd as a volunteer mentor to mentor for students in Chicago Heights Middle School.
 
 #### Some of my skills
 1. Programming in `Java`, `C`, `C++`, `Python`
