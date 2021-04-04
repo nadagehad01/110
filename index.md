@@ -127,7 +127,7 @@ However, I never included the code on my github because I didn't know how to use
 ```
 Additionally, [this]( "submission") is a link to my entire submission, and [this](https://www.google.com/url?q=https://drive.google.com/open?id%3D1oP2t_aYbAYIl2k-xlZwsUkywcfBjFfg9nJETNeFUV1o&sa=D&source=editors&ust=1617553838112000&usg=AFQjCNE9IXNU88hMVBn8f-tf8OGvTp8jLQ "writeup") is a link the programming assignment's writeup.
 
-In case you haven't had enough of my fantastic solution to the programming assignment, check out [this collage] (/fantastic.jpg "Nada's collage") I made with the filters I created.
+In case you haven't had enough of my fantastic solution to the programming assignment, check out [this collage](/fantastic.jpg "collage") I made with the filters I created.
 
 __Home:__
 I'm from Egypt, and I really enjoy exploring my hometown and different places in Egypt, so here are some shots I have taken!
