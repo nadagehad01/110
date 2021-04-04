@@ -1,7 +1,7 @@
 # Nada Galal
 #### Click [here](https://drive.google.com/file/d/1tbphR8kmyYPuSg8CLP7bACFbI2jLU9XA/view?usp=sharing "Nada's resume") for my resume.
 
-Hello! My name is Nada (she/her). I'm a class of 2023 student at UCSD majoring in computer science and minoring in design and business. I'm currently also a computer science tutor in the computer science department, a middle school mentor with an organization called [CovEd](coved.org "CovEd website"), and a publicity, social media, and monthly newsletter intern at the [Diversity, Equity, and Inclusion community](https://cse.ucsd.edu/diversity_equity_inclusion "DEI community website") in the UCSD computer science department.
+Hello! My name is Nada (she/her). I'm a class of 2023 student at UCSD majoring in computer science and minoring in design and business. I'm currently also a computer science tutor in the computer science department, a middle school mentor with an organization called [CovEd](coved.org "CovEd website"), and a publicity, social media, and monthly newsletter intern at the [Diversity, Equity, and Inclusion community](https://cse.ucsd.edu/diversity_equity_inclusion "DEI community website") in the UCSD computer science department. Check out the rest of this page to know more about my [educational background](https://github.com/nadagehad01/110/blob/main/index.md#about-my-educational-background "educational background") and [tutoring](https://github.com/nadagehad01/110/blob/main/index.md#about-my-tutoring "tutoring") experience!
 
 #### About my educational background
 * Graduated high school in 2019 from Riada American School in Alexandria, Egypt
@@ -130,7 +130,7 @@ Additionally, [this]( "submission") is a link to my entire submission, and [this
 In case you haven't had enough of my fantastic solution to the programming assignment, check out [this collage](/fantastic.jpg "collage") I made with the filters I created.
 
 __Home:__
-I'm from Egypt, and I really enjoy exploring my hometown and different places in Egypt, so here are some shots I have taken!
+I'm from Egypt, and I really enjoy exploring my hometown and different places in Egypt, so here are some shots I took while doing that!
 
 ![egy](egy.png "the shots")
 
