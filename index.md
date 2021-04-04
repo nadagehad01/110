@@ -131,6 +131,7 @@ In case you haven't had enough of my fantastic solution to the programming assig
 
 __Home:__
 I'm from Egypt, and I really enjoy exploring my hometown and different places in Egypt, so here are some shots I have taken!
+
 ![egy](egy.png "the shots")
 
 
